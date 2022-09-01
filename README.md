@@ -1,4 +1,4 @@
-# telegram_bot-temperature
+# telegram-bot-temperature
 
 <br>
 
